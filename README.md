@@ -6,4 +6,6 @@ The div element is non-semantic, button element is semantic.
 Use button where it applies.
 Images need descriptions.
 Add alt tag to img, src tags and make a short but concise description in quotations marks.
+Add hyperlinks for a tags for seo, online reputation management, and social media marketing
+
 Make sure the website does not break.
